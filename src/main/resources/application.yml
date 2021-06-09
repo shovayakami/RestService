@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:mysql://192.168.1.134:3306/pangait
+    username: pangaitapprw
+    password: P@ssw0rd
+    driver-class-name: com.mysql.jdbc.Driver

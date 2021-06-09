@@ -7,6 +7,7 @@ import java.util.concurrent.atomic.AtomicLong;
 
 
 @RestController
+@RequestMapping("/api")
 public class GreetingController {
 
     private static final String template = "Hello, %s!";
